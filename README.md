@@ -1,8 +1,8 @@
 Banco de Dados
 -
 Nome do Banco: distribuidora
-\Usuário (padrão): root
-\Senha (padrão): 123
++Usuário (padrão): root
++Senha (padrão): 123
 
 Sessão
 -
