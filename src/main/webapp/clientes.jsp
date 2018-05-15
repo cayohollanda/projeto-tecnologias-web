@@ -51,11 +51,11 @@
 </head>
 <body>
 
-	<c:if test="${usuario == null}">
-		<script>
-			window.location.replace('login.jsp');
-		</script>
-	</c:if>
+<%-- 	<c:if test="${usuario == null}"> --%>
+<!-- 		<script>
+ 			window.location.replace('login.jsp');
+<!-- 		</script> -->
+<%-- 	</c:if> --%>
 
 	<div class="container" align="right" style="margin-top: 10px">
 		<span style="font-size: 10px">
